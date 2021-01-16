@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F8F8F8</color>
+    <color name="colorPrimaryDark">#292929</color>
+    <color name="colorAccent">#DADADA</color>
+
+    <color name="colorWhite">#292929</color>
+    <color name="colorMenuIcon">#292929</color>
+    <color name="colorAppTitle">#292929</color>
+    <color name="colorGreen">#32CD32</color>
+    <color name="colorSearchIcon">#7B7B7B</color>
+    <color name="colorTextHint">#6A6A6A</color>
+    <color name="colorQuickActionsBackground">#BFDDDDDD</color>
+    <color name="colorIcons">#A4A4A4</color>
+
+
+    <color name="colorTextTitle">#FFFFFF</color>
+    <color name="colorTextSubtitle">#CECECE</color>
+    <color name="colorDefaultNoteColor">#EFEFEF</color>
+    <color name="colorNoteSubtitleText">#FAFAFA</color>
+    <color name="colorNoteDateText">#DADADA</color>
+
+    <color name="colorOtherChoicesBackground">#A1FFFFFF</color>
+    <color name="colorAdd">#454545</color>
+    <color name="colorAdd2">#0097A7</color>
+    <color name="colorNoteColor1">#0097A7</color>
+    <color name="colorNoteColor2">#FDBE3B</color>
+    <color name="colorNoteColor3">#FF4842</color>
+    <color name="colorNoteColor4">#3A52FC</color>
+    <color name="colorNoteColor5">#000000</color>
+
+    <color name="colorDelete">#FFE03131</color>
+    <color name="colorDelete2">#E64A19</color>
+    <color name="colorDelete3">#FBC02D</color>
+    <color name="colorSearchBackground">#BFDDDDDD</color>
+    <color name="colorSearchText">#FFFFFF</color>
+
+    <color name="colorRed">#FF4842</color>
+
+</resources>

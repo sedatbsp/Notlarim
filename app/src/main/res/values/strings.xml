@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Güvenli Not Defterim</string>
+    <string name="notlarim">Notlarım</string>
+    <string name="notunu_ara">Notunu Ara</string>
+    <string name="baslik">Not Başlığı..</string>
+    <string name="alt_baslik">Konu</string>
+    <string name="bu_alana_notunuzu_giriniz">Bu alana notunuzu giriniz..</string>
+    <string name="diger_secenekler">Özelleştir</string>
+    <string name="renk_sec">Renk seç</string>
+    <string name="web_url_link_ekle">Web link ekle</string>
+    <string name="url_giriniz">Url giriniz...</string>
+    <string name="iptal">İPTAL</string>
+    <string name="web_link_ekle">Web Linki Ekle</string>
+    <string name="notu_sil">Notu Sil</string>
+    <string name="not_iptal_dialog">İPTAL</string>
+    <string name="note_sil_dialog">SİL</string>
+    <string name="gece">Gece</string>
+    <string name="gunduz">Gündüz</string>
+    <string name="notlar">Notlar</string>
+    <string name="gunduz_gece_modu">Gündüz/Gece modu</string>
+    <string name="dil_degistir">Dil Değiştir</string>
+    <string name="puan_verin">Puan verin</string>
+    <string name="uygulamayi_paylas">Uygulamayı Paylaş</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="uygulama_hakkinda">Uygulama hakkında</string>
+    <string name="diger">Diğer</string>
+    <string name="yeni_not_olustur">Yeni Not Oluştur</string>
+    <string name="dil_seciniz">Dil seçiniz</string>
+    <string name="notlar_n_z_diledi_iniz_ngibi_tutabilirsiniz">Notlarınızı dilediğiniz \ngibi tutabilirsiniz.</string>
+    <string name="buraya_tikla">BURAYA TIKLA</string>
+    <string name="g_r_nt_ekle">Görüntü ekle</string>
+    <string name="su_an_notlar_sayfasindasin">Şu an Notlar sayfasındasın</string>
+    <string name="notu_paylas">Notu Paylaş</string>
+    <string name="bekleyiniz">Bekleyiniz.</string>
+    <string name="giris_ekran">Giriş Ekranı</string>
+    <string name="sifrenizi_girin">Şifrenizi girin.</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="uygulama_sifresi_olustur">Uygulama Şifresi Oluştur</string>
+    <string name="yeni_sifre">Yeni şifre</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="_1_kereye_mahsus_uygulama_ifresi_olu_turman_z_gerekmektedir_uygulamaya_her_giri_inizde_ifreniz_istenilecektir">1 kereye mahsus uygulama şifresi oluşturmanız gerekmektedir.\nUygulamaya her girişinizde şifreniz istenilecektir.</string>
+    <string name="daha_nce_olu_turdu_unuz_ifreyi_giriniz_n_ifreyi_hat_rlam_yorsan_z_uygulaman_n_nbelle_ini_temizleyin_nveya_uygulamay_silip_tekrar_y_kleyiniz">Daha önce oluşturduğunuz şifreyi giriniz.\nŞifreyi hatırlamıyorsanız uygulamanın önbelleğini temizleyin \nveya uygulamayı silip tekrar yükleyiniz.</string>
+    <string name="sifrenizi_girmediniz">Şifrenizi girmediniz.</string>
+    <string name="hatali_sifre_girdiniz">Hatalı şifre girdiniz.</string>
+    <string name="sifreler_uyusmuyor">Şifreler uyuşmuyor!</string>
+    <string name="baslik_alani_bos_gecilemez">Başlık alanı boş geçilemez.</string>
+    <string name="konu_ve_not_bos_gecilemez">Konu ve not alanı boş geçilemez.</string>
+    <string name="izin_vermediniz">İzin vermediniz.</string>
+    <string name="url_girmediniz">Url girmediniz.</string>
+    <string name="url_formatina_uygun_degil">URL formatına uygun değil.</string>
+
+
+    <string name="uygulama_sifresini_degistir">Uygulama Şifresini Değiştir</string>
+    <string name="uygulama_sifresi_degistir_bilgi">Daha önce oluşturduğunuz şifreyi güncellemek isterseniz eski şifreniz ile yeni şifrenizi girip kayıt edebilirsiniz.</string>
+    <string name="eski_sifre">Eski şifre</string>
+    <string name="sifre_degistir">Şifre Değiştir</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="@dimen/_18sdp">
+
+    <com.makeramen.roundedimageview.RoundedImageView
+        android:id="@+id/imageHeader"
+        android:layout_width="@dimen/_50sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:background="@drawable/background_button"
+        android:scaleType="center"
+        android:src="@drawable/ic_launcher_foreground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <View
+        android:id="@+id/viewSupport"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        app:layout_constraintBottom_toBottomOf="@id/imageHeader"
+        app:layout_constraintEnd_toEndOf="@id/imageHeader"
+        app:layout_constraintStart_toStartOf="@id/imageHeader"
+        app:layout_constraintTop_toTopOf="@id/imageHeader"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_9sdp"
+        android:text="@string/notlarim"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="@dimen/_14ssp"
+        android:fontFamily="@font/ubuntu_bold"
+        app:layout_constraintBottom_toTopOf="@id/viewSupport"
+        app:layout_constraintStart_toEndOf="@id/imageHeader"/>
+    
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_9sdp"
+        android:text="@string/notlar_n_z_diledi_iniz_ngibi_tutabilirsiniz"
+        android:textColor="@color/colorIcons"
+        android:textSize="@dimen/_9ssp"
+        android:fontFamily="@font/ubuntu_medium"
+        app:layout_constraintStart_toEndOf="@id/imageHeader"
+        app:layout_constraintTop_toBottomOf="@id/viewSupport"/>
+
+
+    
+    
+</androidx.constraintlayout.widget.ConstraintLayout>

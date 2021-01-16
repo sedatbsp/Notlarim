@@ -1,0 +1,41 @@
+<resources>
+    <!-- Base application theme. -->
+     <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+    <!--  Customize your theme here. @android:color/white  Theme.MaterialComponents.Light.NoActionBar-->
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorTextHint</item>
+        <!--<item name="android:windowAnimationStyle">@style/windowAnimationTransition</item>-->
+    </style> -->
+
+    <!--<style name="windowAnimationTransition">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+
+    </style>-->
+
+    <style name="mytoast">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">#000000</item>
+        <item name="stFont">@font/ubuntu_medium</item>
+        <item name="stTextSize">13sp</item>
+        <item name="stColorBackground">#fff</item>
+        <item name="stSolidBackground">true</item>
+        <item name="stStrokeWidth">1dp</item>
+        <item name="stStrokeColor">#C1000000</item>
+        <item name="stIconStart">@drawable/ic_info</item>
+        <!-- <item name="stIconEnd">@drawable/ic_about</item>-->
+        <item name="stLength">SHORT</item>
+        <!--<item name="stGravity">center</item>-->
+        <item name="stRadius">10dp</item>
+    </style>
+
+    <style name="description_style">
+        <item name="android:layout_width">250dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#797979</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

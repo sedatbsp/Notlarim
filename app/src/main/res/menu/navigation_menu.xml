@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menuNotes"
+        android:icon="@drawable/ic_note_header"
+        android:title="@string/notlar"/>
+
+
+    <item android:id="@+id/menuCreateNote"
+        android:icon="@drawable/ic_note_add"
+        android:title="@string/yeni_not_olustur"/>
+
+
+    <item android:id="@+id/menuNewPassword"
+        android:icon="@drawable/ic_password"
+        android:title="@string/sifre_degistir"/>
+
+    <item android:id="@+id/menuRateApp"
+        android:icon="@drawable/ic_star"
+        android:title="@string/puan_verin"/>
+
+    <item android:id="@+id/menuAppShare"
+        android:icon="@drawable/ic_share"
+        android:title="@string/uygulamayi_paylas"/>
+
+    <item android:title="@string/diger">
+        <menu>
+            <item android:id="@+id/menuAboutUs"
+                android:icon="@drawable/ic_about"
+                android:title="@string/uygulama_hakkinda"
+                />
+
+        </menu>
+
+    </item>
+
+
+</menu>
